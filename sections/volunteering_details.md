@@ -549,7 +549,7 @@ Plain text email-address for direct contact
           </a>
         </th>
       <td><code>object</code></td>
-      <td><code>//assets.betterplace.org/…</code></td>
+      <td><code>https://betterplace-assets.betterplace.org/…</code></td>
 <td>
 
 User profile picture or a fallback image

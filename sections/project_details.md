@@ -577,7 +577,7 @@ The city in which the carrier resides
           </a>
         </th>
       <td><code>object</code></td>
-      <td><code>//assets.betterplace.org/…</code></td>
+      <td><code>https://betterplace-assets.betterplace.org/…</code></td>
 <td>
 
 The organisation logo, user profile picture or a fallback image
