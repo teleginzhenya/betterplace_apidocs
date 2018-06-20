@@ -2,7 +2,7 @@
 # Volunteering Details ⇄ [List](volunteering_list.md)
 
 ```Rebol
-GET https://api.betterplace.org/de/api_v4/volunteering/56101.json
+GET https://api.betterplace.org/de/api_v4/volunteering/57545.json
 ```
 
 The details of a betterplace.org volunteering offer (donate time).
@@ -22,7 +22,7 @@ This resource is not available at the moment.
   </tr>
   <tr>
     <th align="left">id</th>
-    <td><code>56101</code></td>
+    <td><code>57545</code></td>
     <td>yes</td>
 <td>
 
@@ -952,18 +952,18 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
 ```json
 {
-  "id": 56101,
-  "created_at": "2018-03-29T02:24:52+02:00",
-  "updated_at": "2018-03-29T02:24:52+02:00",
-  "latitude": 51.5499,
-  "longitude": 7.87829,
-  "street": "Sonnenweg 122",
-  "zip": "59457",
-  "city": "Werl",
+  "id": 57545,
+  "created_at": "2018-06-20T11:26:43+02:00",
+  "updated_at": "2018-06-20T11:26:43+02:00",
+  "latitude": 51.1673,
+  "longitude": 6.44075,
+  "street": "Friedrich-Ebert Str. 53",
+  "zip": "41236",
+  "city": "Mönchengladbach",
   "country": "Deutschland",
-  "content_updated_at": "2018-03-29T02:24:52+02:00",
-  "title": "Gemeinsam e.V.",
-  "description": "Begleitung von Ferienfreizeiten für Menschen mit Behinderung in den Sommerferien",
+  "content_updated_at": "2018-06-20T11:26:43+02:00",
+  "title": "Freiwilligen Zentrum Mönchengladbach",
+  "description": "Bewerbungstraining<br><br>Für ein Gruppenangebot im Herbst 2018 wird ein(e) Ehrenamtliche(r) gesucht, der/die einmal wöchentlich vier Wochen in Folge jeweils eine Einheit à 3 Stunden Bewerbungstraining durchführt. In den einzelnen Einheiten sollen die Interessen, Stärken und Ressourcen der TeilnehmerInnen, das Bewerbungsschreiben, der Lebenslauf und potenzielle Vorstellungsgespräche bearbeitet werden.",
   "carrier": null,
   "vacancies": 1,
   "image": {
@@ -996,9 +996,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     ]
   },
   "contact": {
-    "name": "Lea Göckler",
-    "phone": "02922/9278023",
-    "email": "bee70fc46caebe2a0c0170d0bd9d7ca98d7018b334b19447707c95a3f0e557fc@betterplace.jp",
+    "name": "Angela Mirbach",
+    "phone": "02166 - 40207",
+    "email": "fwz-mg@caritas-mg.de",
     "picture": null,
     "links": [
 
@@ -1015,18 +1015,21 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "begins_at": null,
   "ends_at": null,
   "topics": [
-    "Menschen mit Behinderung"
+    "Bildung",
+    "Kinder & Jugendliche",
+    "Flüchtlinge & Migranten",
+    "Sozial Benachteiligte"
   ],
   "activities": [
 
   ],
   "imported_from": "aktion_mensch",
   "import_information": {
-    "created_at": "2018-03-28T00:00:00+02:00",
-    "updated_at": "2018-03-28T00:00:00+02:00",
+    "created_at": "2018-06-06T00:00:00+02:00",
+    "updated_at": "2018-06-06T00:00:00+02:00",
     "import_type": "Bettertime::AktionMensch::Import",
-    "import_id": "am-6475",
-    "imported_at": "2018-03-29T02:24:52+02:00",
+    "import_id": "am-6515",
+    "imported_at": "2018-06-20T11:26:43+02:00",
     "links": [
 
     ]
@@ -1063,15 +1066,15 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "links": [
     {
       "rel": "self",
-      "href": "https://api.betterplace.org/de/api_v4/volunteering/56101.json"
+      "href": "https://api.betterplace.org/de/api_v4/volunteering/57545.json"
     },
     {
       "rel": "platform",
-      "href": "https://www.betterplace.org/de/volunteering/56101-gemeinsam-e-v"
+      "href": "https://www.betterplace.org/de/volunteering/57545-freiwilligen-zentrum-monchengladbach"
     },
     {
       "rel": "inquiries",
-      "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/56101-gemeinsam-e-v/inquiries.json",
+      "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/57545-freiwilligen-zentrum-monchengladbach/inquiries.json",
       "templated": true
     }
   ]

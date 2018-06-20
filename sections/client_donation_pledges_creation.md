@@ -7,13 +7,18 @@ POST https://api.betterplace.org/de/api_v4/clients/volksfreund/projects/1114/don
 
 Submit a donation pledge into the system. This will be transformed into
 a donation to the receiver. The request has to be a POST request with a
-JSON body. Here is [a flow chart that describes this process in full](http://ixwphj.axshare.com/donation-pledge-flow.html).
+JSON body.
 
 **:lock: Only available if authenticated as a client.**
 See [betterplace.org clients](../README.md#client-api).
 
 
-#### What if the donation receiver is fully funded?
+### Process Flow
+
+[This a flow chart describes the process…](https://ixwphj.axshare.com/donation-pledge-flow.html).
+
+
+### What if the donation receiver is fully funded?
 
 The donation will be booked in the receiver account even
 if the receiver is fully funded. The receiver will than show a
@@ -23,7 +28,7 @@ manager has to add new money needs to pay out the additional funds.
 Please note that a closed project is prohibited from receiving donations.
 
 
-#### What if the donation receiver is prohibited from receiving donations?
+### What if the donation receiver is prohibited from receiving donations?
 
 At the time when the pledge is received the system does not check the receiver
 status. Therefore the API will always respond with a success message for all
@@ -33,7 +38,7 @@ specific client donation pool. Clients can later forward this money to
 projects they choose.
 
 
-#### Reconciliation of donation pledges
+### Reconciliation of donation pledges
 
 Part of the contract for the usage of this donation pledge API will
 be the time period in which the pledges need to be reconciled. Ususally
@@ -51,12 +56,12 @@ The fields for the CSV files are:
 Please use these names as column titles, use utf-8, use ","
 as a separator and force double quotes around all values.
 
-Here is [a flow chart describing the process](http://ixwphj.axshare.com/money-transfer-flow.html).
+Here is [a flow chart describing the process](https://ixwphj.axshare.com/money-transfer-flow.html).
 
 
-#### Sending donation pledges to the pool
+### Sending donation pledges to the client-pool
 
-It is possible to send donation pledges directly to the pool, by
+It is possible to send donation pledges directly to the client-pool, by
 submitting to this endpoint instead of the project specific one:
 
 `POST https://api.betterplace.org/de/api_v4/clients/{CLIENT}/pool/donation_pledges.json`
@@ -66,7 +71,7 @@ money will be stored on the pool. Clients can later forward this money to
 projects they choose.
 
 
-#### Response and error codes:
+### Response and error codes:
 
 [A list of all response and error codes](../README.md#http-status-codes).
 
@@ -96,7 +101,6 @@ user and confirmation of the pledge by the client. In this case, either
 contact your user and change the resource (most likely a project) or
 redirect the donation to the client pool (the URL is provided by
 betterplace.org).
-
 
 
 ## URL Parameters

@@ -331,47 +331,22 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "per_page": 2,
   "data": [
     {
-      "id": 7019,
-      "created_at": "2009-07-15T08:51:10+02:00",
-      "updated_at": "2009-07-15T08:51:10+02:00",
-      "lang": "en",
+      "id": 111316,
+      "created_at": "2015-03-05T14:38:47+01:00",
+      "updated_at": "2017-07-11T09:27:31+02:00",
+      "lang": "de",
       "type": "BlogPost",
-      "title": "Innovative support from a generous hairstylist",
-      "body": "<p><br></p><p>Approximately one year ago, a young German hairstyling student read a piece about Skateistan. When she found herself working as a nurse in the German military hospital in Mazar-e-Sharif soon after, the skateboarding students of Kabul lingered in her mind. The soldier, Alexandra H., decided to use her skills to support Skateistan in any way she could — so she began to collect donations by giving haircuts to German soldiers serving in Afghanistan.</p><br><p>News of Alexandra’s “haircuts for a good cause” spread rapidly at Mazar-e-Sharif’s Camp Marmal. Before long, she had given 150 haircuts: at the end of June 2009, she generously handed all of the profits to Skateistan.</p><br><p>Alexandra, who has promised to continue her fundraising efforts for Skateistan when she returns to Germany, has quickly become one of the organization’s most innovative and committed supporters.</p><br>",
-      "author": {
-        "id": 9238,
-        "name": "T. Brandl",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/009/238/fill_100x100_original_maxn_skate.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/009/238/crop_original_original_maxn_skate.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "platform",
-            "href": "https://www.betterplace.org/de/users/9238"
-          },
-          {
-            "rel": "contact_data",
-            "href": "https://api.betterplace.org/de/api_v4/users/9238/contact_data.json"
-          }
-        ]
-      },
+      "title": "The Future of Afghanistan",
+      "body": "<p></p><br><p>What does the future hold for us? How do we make it brighter?</p><br><br><p>Growing up in a war torn community is tough, but Afghan youth at Skateistan are learning to build better futures for themselves.</p><br><p><img src=\"https://asset1.betterplace.org/uploads/project/image/000/001/114/101548/limit_600x450_image.jpg\" alt=\"Limit 600x450 image\"><br></p><br><br><p>In the city of Kabul at Skateistan's very first skate school, <br>students have just completed the 'Future' education curriculum. <br>Students worked on their own personal “time-clocks\", set life goals and <br>learnt all about how to achieve their dreams. Amazing inventions for the<br> future were made from all sorts of material to benefit the community - <br>including an electronic skateboard, water filters and a DIY hot air <br>balloon to beat traffic! At <strong><a href=\"http://skateistan.org/blog/5th-anniversary-skateistan-kabul\">Skateistan’s 5th Anniversary</a></strong><br> event we even held a student invention competition that was judged by <br>Ambassador Henk Jan Bakker, from the Embassy of the Netherlands in <br>Kabul. The Ambassador gave Skateistan students 1 hour to create a <br>solution to a problem in the city. He asked them, \"How can people have clean water in Kabul?\" The girls team won the trophy for the best invention that day for creating a very detailed water purification plant.</p><br><br><p>We also invited famous community members to talk to the students <br>about their careers and offer advice on how to contribute to rebuilding <br>the country. Skateistan’s very first time capsule was created with <br>messages from current students to Skateistan students of the future. <br>Students even got to explore what it would be like to be Mayor of the <br>city for a day, and decide what they would do with such responsibility. <br>With inventions, field trips, LEGO and other interactive learning <br>activities, this curriculum was one of Skateistan’s most successful, and<br> a student favorite. It encouraged children to consider the importance <br>of their connection with the future and the past, how things change over<br> time and most importantly, how to plan and prioritize goals for their <br>own lives. </p><br><br><br><p><em>\"My favorite lesson was self-confidence because if we learn a lot<br> about this short word we will improve very much in our life, because to<br> trust yourself is victory. Once we say we can do everything then we can<br> put it into action.”</em><br><br>- Basina, Student, 13 years old</p><br><br><br><br><p><em>“One of my favorite semesters at Skateistan was the future <br>semester. I learnt a lot of things like how to organize my life goals <br>and to achieve my career goals. It gave me ideas on how to invent good <br>ways of life and grow more in life.”</em><br><br>- Tamana, Student, 11 years old</p><br><p></p><br><p><img src=\"https://asset1.betterplace.org/uploads/project/image/000/001/114/101546/limit_600x450_image.jpg\" alt=\"Limit 600x450 image\"><br></p><br><p><em>“Our class invented a water-cleaning model, which we can use in <br>dirty water. It’s something like a pipe and once we put it in a teapot <br>it acts like a filter and cleans the water.”</em><br><br>- Basina, Student, 13 years old<br></p><br><p>We asked some Skateistan students about what their plans are for the future: </p><br><br><br><p><em>“I would like to become a pilot <br>and serve my people and my message for others is to study hard and <br>achieve their life goals and the only way to receive your dreams is by <br>studying hard.”</em><br><br>- Babor Shah, Student, 12 years old</p><br><br><p><em>“I want to be a journalist and give the rights of all people by <br>broadcasting the truth. My message for others is that you are the best -<br> just have confidence in yourself.”</em><br><br>- Hasibullah, Student, 17 years old</p><br><br><p><em>“I want to become a doctor and rescue all my people. Some people <br>are always going outside of the country and spending a bunch of money <br>but if I become a doctor I will make a special discount for people and <br>it will help all of the people in Afghanistan to rescue their lives and <br>the money that is going outside of the country.\"</em><br><br>- Hedayatullah, Student, 13 years old</p><br><br><p><em>“I would like to be an engineer in the future and want to help rebuild my country.”</em><br><br>- Ahmad Sorosh, Student 12 years old</p><br><br><p><em>“I want to be a skate teacher and my message is to study hard and play sport.”</em><br><br>- Zaker, Student, 13 years old</p><br><p>We asked some Skateistan students about what their plans are for the future: </p><br><br><br><p><em>“I would like to become a pilot <br>and serve my people and my message for others is to study hard and <br>achieve their life goals and the only way to receive your dreams is by <br>studying hard.”</em><br><br>- Babor Shah, Student, 12 years old</p><br><br><p><em>“I want to be a journalist and give the rights of all people by <br>broadcasting the truth. My message for others is that you are the best -<br> just have confidence in yourself.”</em><br><br>- Hasibullah, Student, 17 years old</p><br><br><p><em>“I want to become a doctor and rescue all my people. Some people <br>are always going outside of the country and spending a bunch of money <br>but if I become a doctor I will make a special discount for people and <br>it will help all of the people in Afghanistan to rescue their lives and <br>the money that is going outside of the country.\"</em><br><br>- Hedayatullah, Student, 13 years old</p><br><br><p><em>“I would like to be an engineer in the future and want to help rebuild my country.”</em><br><br>- Ahmad Sorosh, Student 12 years old</p><br><br><p><em>“I want to be a skate teacher and my message is to study hard and play sport.”</em><br><br>- Zaker, Student, 13 years old</p><br><p><img src=\"https://asset1.betterplace.org/uploads/project/image/000/001/114/101549/limit_600x450_image.jpg\" alt=\"Limit 600x450 image\"><br></p><br><p>For many children in Afghanistan, the future holds little hope. Often it<br> is the endless repetition of selling chewing gum in the streets or <br>washing cars in the harsh Afghan winter to provide for the family. At <br>Skateistan, students have the opportunity to change, to make their own <br>futures brighter.<br></p><br><p></p>",
+      "author": null,
       "links": [
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/blog_posts/7019.json"
+          "href": "https://api.betterplace.org/de/api_v4/blog_posts/111316.json"
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan/news/7019"
+          "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan/news/111316"
         },
         {
           "rel": "documentation",
@@ -380,47 +355,22 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       ]
     },
     {
-      "id": 8076,
-      "created_at": "2009-08-18T21:19:02+02:00",
-      "updated_at": "2009-08-19T09:38:56+02:00",
-      "lang": "de",
+      "id": 82052,
+      "created_at": "2013-04-23T16:32:03+02:00",
+      "updated_at": "2013-04-23T16:32:03+02:00",
+      "lang": "en",
       "type": "BlogPost",
-      "title": "Sicherheitssets - durch Ihre Spenden finanziert -",
-      "body": "<p>Im Bereich \"Fotos anschauen\" wurden Aufnahmen der trainierenden Kinder und Jugendlichen hochgeladen. Die <a href=\"../../../../pictures/0006/9710/69710.jpg\">Sicherheitsausrüstung</a>, die durch Ihre Spenden finanziert wurden, gehören selbstverständlich zu jedem Training dazu.</p><br><p> </p><br><p>Wir sagen an dieser Stelle noch einmal ganz herzlich \"DANKE\"</p><br><p>Das Skateistan-Team</p>",
-      "author": {
-        "id": 11872,
-        "name": "J. Wulf",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/011/872/fill_100x100_original_jana.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/011/872/crop_original_original_jana.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "platform",
-            "href": "https://www.betterplace.org/de/users/11872"
-          },
-          {
-            "rel": "contact_data",
-            "href": "https://api.betterplace.org/de/api_v4/users/11872/contact_data.json"
-          }
-        ]
-      },
+      "title": "Congratulations to our Back to School Class!",
+      "body": "<p>Skateistan is proud to announce the success of our 2012/2013 Back to School (BTS) students in Kabul. After one year of studying at Skateistan, this year 38 students have successfully passed their tests and joined Afghan public school last month, including 50% girls. None of the BTS students had previously attended public school.</p><br><p>We celebrated their success last week by inviting their families to Skateistan and having a party for them. They were all very happy about being enrolled in public schools and having the chance to go to schools with other children their own age.</p><br><p>All of the students have been enrolled into Grade 4 after passing the government entry tests, except one of the youngest students, who will enter Grade 3. Amazingly, eight-year-old Kareshma exceeded all expectations and successfully enrolled in the 4th grade, usually meant for nine-year-olds!</p><br><p><strong>Graudation ceremony</strong></p><br><p>At the award ceremony the parents expressed their gratitude that their children had the opportunity to learn at Skateistan, which they see as a place where their children can come to have fun and learn many new things.</p><br><p>“We have seen changes in the faces of our children, all of their behaviours have changed,” says one of the BTS students’ mothers. The students and their families all live in the same camp for Internally Displaced Persons.</p><br><p>At the graduation ceremony the BTS children were incredibly excited about the new horizons that awaited them at school. Many of the graduates were eager to see what big schools were like and meet many more children from different parts of Kabul.</p><br><p>Reflecting on her year teaching the Back To School students, Skateistan’s Education Coordinator Treena expressed the importance of school and places like Skateistan for building a better future for Afghan children, in particularly the girls.</p><br><p>“All the girls who passed, passed into the 4th grade. They are all so intelligent and all of their results were so good,” says Treena, Skateistan’s 2012/2013 Back to School teacher.</p><br><p> </p><br><p><strong>New Frontiers</strong></p><br><p>After the students had settled into their new schools Fatima, Skateistan’s Student Support Officer, went to see how the children were doing. Speaking to Amina, who obtained the 2nd highest result in the BTS exams, Fatima found out how proud the students were of their Skateistan education.</p><br><p>“When I got to my class no one was more intelligent than me. They [the other students] even chose me to be the leader of the class!” says 12-year-old Amina.</p><br><p>Having graduated from Skateistan the students have a long way ahead of them: they’ll need to maintain the motivation and desire to learn that they have developed over the last year, and remember education is the gateway to their future.</p><br><p>“They can now go on to learn more. They can become doctors, go to university and lots more,” says their very proud teacher Treena.</p><br><p><em>Thank you students for making your parents and Skateistan so proud about your success!</em></p>",
+      "author": null,
       "links": [
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/blog_posts/8076.json"
+          "href": "https://api.betterplace.org/de/api_v4/blog_posts/82052.json"
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan/news/8076"
+          "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan/news/82052"
         },
         {
           "rel": "documentation",

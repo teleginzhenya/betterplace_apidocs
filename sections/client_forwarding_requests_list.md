@@ -5,15 +5,19 @@
 POST https://api.betterplace.org/de/api_v4/clients/volksfreund/projects/1114/forwarding_requests.json
 ```
 
-Transfer money from a client donation pool to a Project. The request has
-to be a POST request with a JSON body. Here is
-[a flow chart that describes this process in full](http://ixwphj.axshare.com/donation-pledge-flow.html).
+Transfer money from a client donation pool to a Project.
+The request has to be a POST request with a JSON body.
 
 **:lock: Only available if authenticated as a client.**
 See [betterplace.org clients](../README.md#client-api).
 
 
-#### What if the donation receiver is fully funded?
+### Process Flow
+
+[This a flow chart describes the process…](https://ixwphj.axshare.com/forwarding-request-flow.html).
+
+
+### What if the donation receiver is fully funded?
 
 The donation will be booked in the receiver account even
 if the receiver is fully funded. The receiver will than show a
@@ -23,7 +27,7 @@ manager has to add new money needs to pay out the additional funds.
 Please note that closed projects are prohibited from receiving donations.
 
 
-#### What if the donation receiver is prohibited from receiving donations?
+### What if the donation receiver is prohibited from receiving donations?
 
 At the time when the forwarding request is received, the system does not
 check the receiver status. Therefore the API will always respond with a
@@ -33,9 +37,19 @@ Should the receiver be prohibited from receiving donations at the time
 when the donation is processed, the forwarding will not be inserted into
 the system. The forwarding request will then be marked as "failed" and
 the "error_reason" field holds detailed information about the problem.
+Learn more at [Client Forwarding Request Status](client_forwarding_request_details.md).
+
+There are two possible next steps:
+
+_Option 1:_ Handle those cases manually with the betterplace.org-support-team.
+This option is only feasible in selected cases.
+
+_Option 2:_ The client system reacts to the error-state of the
+forwarding request automatically. For example by moving the donation
+to a fallback project.
 
 
-#### Response and error codes:
+### Response and error codes:
 
 [A list of all response and error codes](../README.md#http-status-codes).
 

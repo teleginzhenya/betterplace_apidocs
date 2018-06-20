@@ -1355,9 +1355,9 @@ information for the donors.
 
 ```json
 {
-  "total_entries": 3,
+  "total_entries": 4,
   "offset": 0,
-  "total_pages": 1,
+  "total_pages": 2,
   "current_page": 1,
   "per_page": 3,
   "data": [
@@ -1514,6 +1514,154 @@ information for the donors.
       ]
     },
     {
+      "id": 60749,
+      "created_at": "2018-02-22T20:01:23+01:00",
+      "updated_at": "2018-02-23T17:07:28+01:00",
+      "latitude": 34.5553494,
+      "longitude": 69.207486,
+      "street": "Tulpenweg 63",
+      "zip": "",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "content_updated_at": "2018-02-23T09:52:39+01:00",
+      "activated_at": "2018-02-23T09:52:39+01:00",
+      "title": "Unterstütze Sport &amp; Bildung für Kinder und Jugendliche mit Skateboarding",
+      "description": "<div>▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾<br><strong>Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt;&gt;&gt; Spende 5€ um einen Unterrichtstag zu unterstützen &lt;&lt;&lt;</strong><br><br>Wir wollen, dass Skateistan noch mehr Kindern und Jugendlichen die Möglichkeit geben kann, skaten zu lernen. Skateistan glaubt daran, dass alle Kinder und Jugendlichen die gleichen Rechte haben, sicher zu sein, Sport zu treiben, zur Schule zu gehen, selbstsicher zu sein und eine Führungskraft zu werden.</div>",
+      "summary": "Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt; Spende 5€ um einen Unterrichtstag zu unterstützen ",
+      "tax_deductible": true,
+      "donations_prohibited": false,
+      "completed_at": null,
+      "closed_at": null,
+      "open_amount_in_cents": 1000000,
+      "donated_amount_in_cents": 0,
+      "positive_opinions_count": 0,
+      "negative_opinions_count": 0,
+      "donations_count": 0,
+      "comments_count": 0,
+      "donor_count": 0,
+      "progress_percentage": 0,
+      "incomplete_need_count": 10,
+      "completed_need_count": 0,
+      "blog_post_count": 0,
+      "contact": {
+        "id": 506119,
+        "name": "Edward S.",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/fill_100x100_bp1507482554_Profilbild_Skateistan.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/crop_original_bp1507482554_Profilbild_Skateistan.png"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "platform",
+            "href": "https://www.betterplace.org/de/users/506119"
+          },
+          {
+            "rel": "contact_data",
+            "href": "https://api.betterplace.org/de/api_v4/users/506119/contact_data.json"
+          }
+        ]
+      },
+      "carrier": {
+        "name": "Skateistan",
+        "city": "Berlin",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_original_betterplace-logo.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_original_betterplace-logo.png"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.betterplace.org/de/api_v4/organisations/1054.json"
+          }
+        ]
+      },
+      "profile_picture": {
+        "links": [
+          {
+            "rel": "fill_960x500",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_960x500_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "fill_730x380",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_730x380_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_618x322_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_410x214_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_270x141_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/crop_original_bp1519326291_Skateistan_Girl_Power.jpg"
+          }
+        ]
+      },
+      "active_matching_fund": null,
+      "closed_notice": null,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749.json"
+        },
+        {
+          "rel": "platform",
+          "href": "https://www.betterplace.org/de/projects/60749-unterstutze-sport-bildung-fur-kinder-und-jugendliche-mit-skateboarding"
+        },
+        {
+          "rel": "opinions",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/opinions.json"
+        },
+        {
+          "rel": "pictures",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/pictures.json"
+        },
+        {
+          "rel": "needs",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/needs.json"
+        },
+        {
+          "rel": "blog_posts",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/blog_posts.json"
+        },
+        {
+          "rel": "matching_funds",
+          "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=60749"
+        },
+        {
+          "rel": "new_client_donation",
+          "href": "https://www.betterplace.org/de/projects/60749/client_donations/new?client_id=%7Bclient_id%7D",
+          "templated": true
+        },
+        {
+          "rel": "new_donation",
+          "href": "https://www.betterplace.org/de/projects/60749/donations/new"
+        }
+      ]
+    },
+    {
       "id": 6233,
       "created_at": "2011-02-25T08:48:43+01:00",
       "updated_at": "2018-03-29T00:18:45+02:00",
@@ -1659,155 +1807,6 @@ information for the donors.
         {
           "rel": "new_donation",
           "href": "https://www.betterplace.org/de/projects/6233/donations/new"
-        }
-      ]
-    },
-    {
-      "id": 1114,
-      "created_at": "2009-03-10T11:12:16+01:00",
-      "updated_at": "2018-03-29T00:04:49+02:00",
-      "latitude": 34.531617284782,
-      "longitude": 69.13581752939456,
-      "street": "Siedlung 134",
-      "zip": "",
-      "city": "Kabul",
-      "country": "Afghanistan",
-      "content_updated_at": "2017-07-24T16:25:11+02:00",
-      "activated_at": "2009-03-10T12:29:29+01:00",
-      "title": "Skateistan Afghanistan",
-      "description": "<div>With 68% of Afghanistan’s population under the age of 25, Skateistan strongly believes that youth are the ones most capable of bringing about social change.<br><br>Skateistan is an Afghan NGO which operates Afghanistan’s (and the world’s) first co-educational skateboarding school. The Skateistan school engages nearly 400 Kabul youth weekly through skateboarding, and provides them with new opportunities in cross-cultural interaction, education, and personal empowerment programs. <br><br>The students (ages 5-17) come from all of Afghanistan’s diverse ethnic and socioeconomic backgrounds, and include 40% female students, hundreds of streetworking children, and youth with disabilities. They develop skills in skateboarding, leadership, problem-solving, multimedia, and creative arts. The students themselves decide what they want to learn; we connect them with a safe space and opportunities for them to develop the skills that they consider important. <br><br>For Afghan girls Skateistan's programming is especially important as there are very few recreational opportunities for females. For example, it is not culturally acceptable for girls in Afghanistan to ride bicycles or play sports in public. <br><br>Skateistan has been active in Kabul since 2007 - with our facility built in 2009 - and in that time we’ve seen that Afghan youth of all ethnicities, genders, and socioeconomic backgrounds love to skateboard. Skateistan brings them together, equipping young men and women to lead their communities toward social change and development.<br><br>In 2012 Skateistan will be opening its second Afghan facility in Mazar-e-Sharif, Northern Afghanistan. It will have space to teach up to 1000 youth weekly.<br><br>Our program gives hundreds of oppressed youth a voice. Education and the opportunity for self-expression can break the cycles of poverty, illiteracy and exclusion, with sport paving the way.</div>",
-      "summary": "Skateistan wurde als humanitäres Hilfsprojekt für Kinder und Jugendliche in Afghanistan im Jahr 2007 gegründet. Skateistan will Kindern in Kabul neue Perspektiven eröffnen, Vorurteile abbauen, Gleichberechtigung fördern und Freude bringen.",
-      "tax_deductible": true,
-      "donations_prohibited": false,
-      "completed_at": null,
-      "closed_at": null,
-      "open_amount_in_cents": 815617,
-      "donated_amount_in_cents": 5748235,
-      "positive_opinions_count": 779,
-      "negative_opinions_count": 0,
-      "donations_count": 779,
-      "comments_count": 0,
-      "donor_count": 574,
-      "progress_percentage": 87,
-      "incomplete_need_count": 4,
-      "completed_need_count": 93,
-      "blog_post_count": 92,
-      "contact": {
-        "id": 287126,
-        "name": "A. Wolff",
-        "picture": {
-          "fallback": true,
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "platform",
-            "href": "https://www.betterplace.org/de/users/287126"
-          },
-          {
-            "rel": "contact_data",
-            "href": "https://api.betterplace.org/de/api_v4/users/287126/contact_data.json"
-          }
-        ]
-      },
-      "carrier": {
-        "name": "Skateistan",
-        "city": "Berlin",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_original_betterplace-logo.png"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_original_betterplace-logo.png"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "self",
-            "href": "https://api.betterplace.org/de/api_v4/organisations/1054.json"
-          }
-        ]
-      },
-      "profile_picture": {
-        "links": [
-          {
-            "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_960x500_original_girls-merza-sm.jpg"
-          },
-          {
-            "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_730x380_original_girls-merza-sm.jpg"
-          },
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_618x322_original_girls-merza-sm.jpg"
-          },
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_410x214_original_girls-merza-sm.jpg"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_270x141_original_girls-merza-sm.jpg"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/crop_original_original_girls-merza-sm.jpg"
-          }
-        ]
-      },
-      "active_matching_fund": null,
-      "closed_notice": null,
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/projects/1114.json"
-        },
-        {
-          "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan"
-        },
-        {
-          "rel": "opinions",
-          "href": "https://api.betterplace.org/de/api_v4/projects/1114/opinions.json"
-        },
-        {
-          "rel": "pictures",
-          "href": "https://api.betterplace.org/de/api_v4/projects/1114/pictures.json"
-        },
-        {
-          "rel": "needs",
-          "href": "https://api.betterplace.org/de/api_v4/projects/1114/needs.json"
-        },
-        {
-          "rel": "blog_posts",
-          "href": "https://api.betterplace.org/de/api_v4/projects/1114/blog_posts.json"
-        },
-        {
-          "rel": "matching_funds",
-          "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=1114"
-        },
-        {
-          "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/client_donations/new?client_id=%7Bclient_id%7D",
-          "templated": true
-        },
-        {
-          "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/donations/new"
         }
       ]
     }

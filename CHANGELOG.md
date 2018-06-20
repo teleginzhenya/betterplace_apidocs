@@ -3,6 +3,11 @@ All notable changes to the betterplace.org API v4 will be documented in this
 file. Notifications about changes will also be send to the [mailing list for
 service announcements](README.md#mailing-list-for-service-announcements).
 
+## 2018-06-01
+### Fixed
+- Fixed ordering of opinions for projects and fundraising event
+- Fixed `has_message` facet filter on opinions
+
 ## 2017-08-15
 ### Added
 - Added support for `tracking_via` to [donation pledges](sections/client_donation_pledges_list.md) and [forwarding requests](sections/client_forwarding_requests_list.md).

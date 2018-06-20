@@ -66,7 +66,9 @@ A recommended order is <code>id:DESC</code>. This is the order in <a href=" http
 <em>Supported orders are:</em>
 <ul>
 <li><code>created_at:ASC/DESC</code>
+<li><code>updated_at:ASC/DESC</code>
 <li><code>id:ASC/DESC</code>
+<li><code>amount_in_cents:ASC/DESC</code>
 </ul>
 It is possible to set multiple order parameters.
 <a href="../README.md#request-parameter-format">Learn how to format the parameter</a>.
