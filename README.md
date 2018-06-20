@@ -1,4 +1,4 @@
-![betterplace.org](images/betterplace.jpg "betterplace.org")
+![betterplace.org](images/betterplace.svg "betterplace.org")
 
 # The betterplace.org API Version 4
 
