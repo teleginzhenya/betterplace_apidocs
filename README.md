@@ -1,4 +1,4 @@
-![betterplace.org](images/betterplace.svg "betterplace.org")
+<img src="images/betterplace.svg" alt="betterplace.org" width="400" />
 
 # The betterplace.org API Version 4
 
